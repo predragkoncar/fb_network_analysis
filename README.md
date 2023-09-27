@@ -1,5 +1,5 @@
 # fb_network_analysis
-Facebook netwowrk analysis using NetworkX
+Facebook network analysis using NetworkX
 
 ![g1](https://github.com/predragkoncar/fb_network_analysis/assets/4339547/8cf806bd-6bd7-4b5a-92fb-fb90dce5a4af)
 
